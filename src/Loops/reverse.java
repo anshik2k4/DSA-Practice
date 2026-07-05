@@ -18,7 +18,7 @@ public class reverse {
             System.out.println("the num is palindrome");
         }
         else{
-            System.out.println("Not palindrome");
+            System.out.println("Not a palindrome");
         }
     }
 }
